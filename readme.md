@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Setup
+
+1) Clone From : https://github.com/RifatCse/laravel-5.8-Admin-Panel.git
+2) Configure database from .env file
+3) run : php artisan migrate
+4) register
+5) login
+6) enjoy!!!
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:

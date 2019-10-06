@@ -15,11 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-// Route::get('/a', function () {
-//     return view('admin.dashboard');
-// });
-
 Auth::routes();
 
-//Route::get('/', 'HomeController@dashboard');
+// Route::get('/', 'HomeController@dashboard');
 Route::get('/home', 'HomeController@dashboard')->name('home');
