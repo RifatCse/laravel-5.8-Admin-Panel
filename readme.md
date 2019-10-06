@@ -10,7 +10,7 @@
 ## Setup
 
 1) Clone From : https://github.com/RifatCse/laravel-5.8-Admin-Panel.git
-2) Configure database from .env file
+2) Configure database from .env file (and mail configuration for forget password)
 3) run : php artisan migrate
 4) register
 5) login
