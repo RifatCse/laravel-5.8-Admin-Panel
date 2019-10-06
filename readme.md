@@ -16,7 +16,7 @@
 5) login
 6) enjoy!!!
 
-Note* custome made from : https://startbootstrap.com/themes/sb-admin-2/
+Note* custom Admin Panel made from : https://startbootstrap.com/themes/sb-admin-2/
 
 ## About Laravel
 
